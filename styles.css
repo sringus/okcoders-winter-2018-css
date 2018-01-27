@@ -1,0 +1,34 @@
+body {
+	margin: 0 auto;
+	max-width: 50em;
+	font-family: "Helvetica", "Arial", sans-serif;
+	line-height: 1.5;
+	padding: 4em 1em;
+	color: #555;
+}
+
+h1, h2, strong {
+	color: #333;
+}
+
+h2 {
+	margin-top: 1em;
+	padding-top: 1em;
+}
+
+code, pre {
+	background: #eee;
+}
+
+pre {
+	padding: 1em;
+	background: #f5f7f9;
+	border-bottom: 1px solid #d8dee9;
+	border-left: 2px solid #69c;
+	color: #a;
+}
+
+a {
+	color: #e81c4f;
+}
+
